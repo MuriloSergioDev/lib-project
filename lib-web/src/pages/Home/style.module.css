@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.containerModal {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.a{
+    text-decoration: none;
+    color: black;
+}
+
+.iconBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.arrowBox{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100px;
+}
+
+.iconArrow{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.iconArrowDisable{
+    font-size: 20px;
+    color: grey;
+}

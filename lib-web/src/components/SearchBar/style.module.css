@@ -1,0 +1,26 @@
+.container{
+    width: 80%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input{
+    width: 95%;
+    padding: 20px;
+    border: none;
+    font-size: 20px;
+}
+
+.icon{
+    
+    margin-left: 10px;
+}
+
+.iconBox{
+    
+    width: 50px;
+    padding: 20px 20px 20px 0px;
+    background-color: white;
+}
